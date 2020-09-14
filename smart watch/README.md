@@ -1,0 +1,2 @@
+# ECE 16 project class
+We had to create a working "smart watch" essentialy a breadboard filled up electronics sensors such as accelerometer/pulse sensor/OLED display. All the sensors uses ardiuno  code to function. I use python to do data analysis such as peak detection accelerometer detection or heartbeat dection using numpy for numerical computation and basic DSP filteration. I tried implementing a GMM unsupervied learning model to seprate our data into 2 clustors to determine when I threshold has been made. 
